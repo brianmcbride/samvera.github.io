@@ -12,7 +12,7 @@ toc: false
 
 #### *Interview with Mike Giarlo*
 
-### What's the design pattern of Actors and the Actor Stack, can you give an brief introduction to the idea/history of middleware?
+### What's the design pattern of Actors and the Actor Stack, can you give a brief introduction to the idea/history of middleware?
 
 Yeah. So, first, I'll be totally honest and disclaim that, this is not something I came up with, and I've had to do some learning myself, to learn how it integrates with the rest of Hyrax. I'd previously had to do a little with middleware, inject a custom middleware into Rack middleware, but not much.
 
